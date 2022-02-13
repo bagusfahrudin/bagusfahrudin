@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bagusfahrudin
+- 👀 I’m interested in programming and anime
+- 🌱 I’m currently learning data science and integration
+- 💞️ I’m looking to collaborate on whatsapp-bot
+- 📫 How to reach me ...
